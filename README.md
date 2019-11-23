@@ -1,2 +1,4 @@
 # hello-word
-just another repository
+
+HI!
+i am elon a studing in github, i learn C and anglais.
